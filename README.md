@@ -1,4 +1,4 @@
-# Ayurveda Prakriti App (Frontend)
+# Ayurveda Prakriti App 
 
 This repository contains a single-page React application (Create React App) for a small Ayurveda health demo. It implements:
 
